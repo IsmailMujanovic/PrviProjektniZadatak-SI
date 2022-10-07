@@ -1,0 +1,70 @@
+body{
+  background-color: rgb(0, 0, 0);
+}
+h1{
+  border: 2px solid black;
+  text-align: center;
+  color: rgb(251, 255, 0);
+  font-weight: bold;
+  font-size: 30px;
+}
+.tekstKlasa{
+  background-color: rgb(251, 255, 0);
+}
+.center{
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+}
+.forma{
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+  list-style-type: none;
+  font-weight: bold;
+}
+#form {
+  width: 500px;
+  border: 2px solid black;
+  text-align: center;
+  background-color: rgb(251, 255, 0);
+}
+img{
+  float: left;
+  margin: 0 20px 20px 20px;
+  width: 450px;
+  height: 300px;
+}
+.margin{
+  margin: 20px;
+}
+hr{
+  width:100%;
+  text-align:left;
+  margin-left:0;
+}
+.button {
+  text-align: center;
+  width: 80px;
+  height: 30px;
+  background-color: rgb(0, 0, 0);
+  border-radius: 10px;
+  font-family: Arial;
+  border: 1px solid beige;
+  color: beige;
+}
+label {
+  display: inline-block;
+  width: 125px;
+  text-align: left;
+  font-family: sans-serif;
+}
+input {
+  display: inline-block;
+  width: 225px;
+  margin: 3px auto 2px auto;
+}
+.link {
+  font-size: 25px;
+  font-style: bold;
+  color: rgb(251, 255, 0);
+}
